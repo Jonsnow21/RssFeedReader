@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
@@ -72,12 +72,12 @@
         "source": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
-    },
-    {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
         "source": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",

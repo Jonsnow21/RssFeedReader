@@ -23,6 +23,9 @@
     <color name="theme_accent">#04561A</color>
     <!--<color name="ltgray">#ffe0e0e0</color>-->
 
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#607D8B</color>
+
         <!-- google's material design colours from
         http://www.google.com/design/spec/style/color.html#color-ui-color-palette -->
 
