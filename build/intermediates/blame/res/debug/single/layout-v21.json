@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/layout-v21/list_item_article.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/src/main/res/layout-v21/list_item_article.xml"
+    },
+    {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout-v21/list_item_article.xml",
         "source": "/home/pavi/AndroidStudioProjects/XYZReader/src/main/res/layout-v21/list_item_article.xml"
     },
@@ -10,5 +14,13 @@
     {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/layout-v21/fragment_article_detail.xml",
         "source": "/home/pavi/AndroidStudioProjects/XYZReader/src/main/res/layout-v21/fragment_article_detail.xml"
+    },
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/layout-v21/activity_article_detail.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/src/main/res/layout-v21/activity_article_detail.xml"
+    },
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/layout-v21/fragment_article_detail.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/src/main/res/layout-v21/fragment_article_detail.xml"
     }
 ]

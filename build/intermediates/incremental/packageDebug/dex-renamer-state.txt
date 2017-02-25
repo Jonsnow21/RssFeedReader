@@ -1,4 +1,4 @@
-#Sat Feb 25 17:39:37 IST 2017
-base.0=/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sat Feb 25 23:28:37 IST 2017
+base.0=/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

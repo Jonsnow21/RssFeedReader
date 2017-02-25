@@ -1,5 +1,21 @@
 [
     {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
         "source": "/home/pavi/AndroidStudioProjects/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
     },

@@ -2,5 +2,9 @@
     {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/drawable-nodpi/empty_detail.png",
         "source": "/home/pavi/AndroidStudioProjects/XYZReader/src/main/res/drawable-nodpi/empty_detail.png"
+    },
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/drawable-nodpi/empty_detail.png",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/src/main/res/drawable-nodpi/empty_detail.png"
     }
 ]

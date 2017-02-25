@@ -43,7 +43,7 @@ public class ArticleListActivity extends AppCompatActivity implements
         activity = this;
         setContentView(R.layout.activity_article_list);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            getWindow().setStatusBarColor(getResources().getColor(R.color.theme_accent));
+            getWindow().setStatusBarColor(getResources().getColor(R.color.theme_primary_dark));
         }
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);

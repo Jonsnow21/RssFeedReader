@@ -2,5 +2,9 @@
     {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/home/pavi/AndroidStudioProjects/XYZReader/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/src/main/res/menu/main.xml"
     }
 ]

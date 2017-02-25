@@ -3524,8 +3524,6 @@ containing a value of this type.
         public static final int Theme_AppCompat_Light_NoActionBar=0x7f08010d;
         public static final int Theme_AppCompat_NoActionBar=0x7f08010e;
         public static final int Theme_Bacon=0x7f080083;
-        /**  specify enter and exit transitions 
-         */
         public static final int Theme_Bacon_Detail=0x7f080084;
         public static final int Theme_Design=0x7f08010f;
         public static final int Theme_Design_BottomSheetDialog=0x7f080110;

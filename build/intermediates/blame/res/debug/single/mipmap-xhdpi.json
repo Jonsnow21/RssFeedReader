@@ -2,5 +2,9 @@
     {
         "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/home/pavi/AndroidStudioProjects/XYZReader/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/neeraj/AndroidStudioProjects/RssFeedReader/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/neeraj/AndroidStudioProjects/RssFeedReader/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]
