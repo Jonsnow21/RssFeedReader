@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/pavi/AndroidStudioProjects/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/pavi/AndroidStudioProjects/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/home/pavi/AndroidStudioProjects/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    }
+]
